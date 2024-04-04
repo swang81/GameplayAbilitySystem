@@ -4,7 +4,7 @@
 
 # UI
 
-```Mermaid
+```mermaid
 ---
 title: Widget for Health and Mana 
 ---
