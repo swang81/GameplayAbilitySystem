@@ -19,3 +19,12 @@ WBP_GlobeProgressBar <|-- WBP_ManaGlobe
 WBP_HealthGlobe --* WBP_Overlay
 WBP_ManaGlobe --* WBP_Overlay
 ```
+
+```mermaid
+---
+title: HUD
+---
+classDiagram
+AHUD <|-- AAuraHUD
+AAuraHUD <|-- BP_AuraH
+```
