@@ -26,5 +26,7 @@ title: HUD
 ---
 classDiagram
 AHUD <|-- AAuraHUD
-AAuraHUD <|-- BP_AuraH
+AAuraHUD <|-- BP_AuraHUD
+UObject <|-- UAuraWidgetController
+
 ```
