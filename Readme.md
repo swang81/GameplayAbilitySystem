@@ -28,5 +28,5 @@ classDiagram
 AHUD <|-- AAuraHUD
 AAuraHUD <|-- BP_AuraHUD
 UObject <|-- UAuraWidgetController
-
+UAuraWidgetController <|-- UOverlayWidgetController
 ```
